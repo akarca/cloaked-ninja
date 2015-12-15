@@ -6,11 +6,11 @@ Reactive mp3 downloader from grooveshark, youtube and soundcloud. Link your soun
 Installation
 ============
 #####Virtualenv for node.js (optional)
-pip install -r requirements.txt
-nodeenv -p
+``pip install -r requirements.txt``
+``nodeenv -p``
 
 #####Node.js requirements
-npm install
+``npm install``
 
 #####Usage
 This is the early stage of the cloaked-ninja and have only grooveshark url download feature.
